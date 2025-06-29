@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Organic Tomatoes",
+      "category": "Vegetables",
+      "price": 120,
+      "location": "Nakuru",
+      "image": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
+    },
+    {
+      "id": "3150",
+      "name": "Rice",
+      "category": "Grains",
+      "price": 120,
+      "location": "Mwea",
+      "image": "https://media.istockphoto.com/id/1373044552/photo/rice-pad-in-the-holder-with-the-green-utensil-cup.jpg?s=2048x2048&w=is&k=20&c=iQ5dEuFF03kTEBhofsozhSJLs6bbQD7JizdfuLyU2mk="
+    }
+  ]
+}
